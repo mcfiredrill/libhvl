@@ -6,7 +6,6 @@
 
 #include <assert.h>
 #include <SDL/SDL.h>
-#include "types.h"
 
 #include "hvl_replay.h"
 
