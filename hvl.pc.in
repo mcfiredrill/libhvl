@@ -1,0 +1,10 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@
+
+Name: libhvl
+Description: HVL/AHX module playback library
+Version: @VERSION@
+Libs: -L${libdir} -lhvl
+Cflags: -I${includedir}

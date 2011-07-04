@@ -1,4 +1,15 @@
+LIBHVL
+------
+This is my attempt to maintain the hively replayer sources.
 
+INSTALL IT
+-----------
+Run ./autogen.sh, ./configure then make.
+
+
+
+Below is the original readme from hivelytracker.com:
+-----------------------------------------------------
 This replayer was basically ripped out of HivelyTracker and bodged into a
 standalone replayer. Its not necessarily optimal, i haven't had a chance
 to comment anything, and it will only compile under OS4 at the moment.
